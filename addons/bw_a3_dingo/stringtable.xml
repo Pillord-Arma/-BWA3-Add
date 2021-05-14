@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Project name="bw_a3_dingo">
+  <Package name="Vehicles">
+
+    <Key ID="STR_BW_a3_DingoMG3FleckName">
+      <English>MRAP Dingo 2 MMG</English>
+      <German>ATF Dingo 2 MG3</German>
+    </Key>
+	<Key ID="STR_BW_a3_DingoGMGFleckName">
+      <English>MRAP Dingo 2 GMG</English>
+      <German>ATF Dingo 2 GMW</German>
+    </Key>
+ </Package>
+</Project>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Project name="TBW_Frigate">
+  <Package name="Vehicles">
+	
+    <Key ID="STR_Frigate">
+      <English>Frigate [F222 Baden-Württemberg]</English>
+      <German>Fregatte [F222 Baden-Württemberg]</German>
+    </Key>
+ </Package>
+</Project>

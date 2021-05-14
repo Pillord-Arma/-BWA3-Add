@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Project name="TBW_Equip">
+  <Package name="Vehicles">
+	
+    <Key ID="STR_Assault_Fleck">
+      <English>Assault Pack (Flecktarn2)</English>
+      <German>Angriffspack (Flecktarn2)</German>
+    </Key>
+	<Key ID="STR_Assault_Multi">
+      <English>Assault Pack (Multitarn)</English>
+      <German>Angriffspack (Multitarn)</German>
+    </Key>
+	<Key ID="STR_Assault_Tropen">
+      <English>Assault Pack (Tropentarn2)</English>
+      <German>Angriffspack (Tropentarn2)</German>
+    </Key>
+	<Key ID="STR_Assault_Schnee">
+      <English>Assault Pack (Schneetarn)</English>
+      <German>Angriffspack (Schneetarn)</German>
+    </Key>
+	<Key ID="STR_Assault_Emerge">
+      <English>Emergency Backpack</English>
+      <German>Notfallrucksack</German>
+    </Key>
+	<Key ID="STR_UniformSchneeName">
+      <English>BW Uniform (Schneetarn2)</English>
+      <German>BW Kampfanzug (Schneetarn2)</German>
+    </Key>
+	<Key ID="STR_UniformShirtName">
+      <English>Shirt Marine (blue)</English>
+      <German>Hemd Marine (blau)</German>
+    </Key>
+	<Key ID="STR_UniformShirtBrownName">
+      <English>Shirt Marine (brown)</English>
+      <German>Hemd Marine (braun)</German>
+    </Key>
+	<Key ID="STR_UniformCombatFleckName">
+      <English>Combat Swimmer (Flecktarn)</English>
+      <German>Kampfschwimmer (Flecktarn)</German>
+    </Key>
+	<Key ID="STR_UniformCombatMultiName">
+      <English>Combat Swimmer (Multitarn)</English>
+      <German>Kampfschwimmer (Multitarn)</German>
+    </Key>
+	<Key ID="STR_UniformCombatDiverName">
+      <English>Wetsuit</English>
+      <German>Taucheranzug</German>
+    </Key>
+	<Key ID="STR_UniformSanName">
+      <English>Paramedic Outfit</English>
+      <German>Sanitäterkleidung</German>
+    </Key>
+	<Key ID="STR_HelmetMultiName">
+      <English>MICH (Multitarn)</English>
+      <German>MICH (Multitarn)</German>
+    </Key>
+	<Key ID="STR_HelmetMultiLightName">
+      <English>Ops-Core SPEC Helmet (Multitarn)</English>
+      <German>Ops-Core SPEC Helm (Multitarn)</German>
+    </Key>
+	<Key ID="STR_HelmetSchneeName">
+      <English>MICH (Schneetarn)</English>
+      <German>MICH (Schneetarn)</German>
+    </Key>
+	<Key ID="STR_HelmetSchneeLightName">
+      <English>Ops-Core SPEC Helmet (Schneetarn)</English>
+      <German>Ops-Core SPEC Helm (Schneetarn)</German>
+    </Key>
+	<Key ID="STR_BeretSanName">
+      <English>Beret (Sanitäter)</English>
+      <German>Barett (Sanitäter)</German>
+    </Key>
+	<Key ID="STR_BeretPioName">
+      <English>Beret (Pioniere)</English>
+      <German>Barett (Pioniere)</German>
+    </Key>
+	<Key ID="STR_BeretMarineName">
+      <English>Beret (Marinesicherungstruppe)</English>
+      <German>Barett (Marinesicherungstruppe)</German>
+    </Key>
+	<Key ID="STR_BeretLuftName">
+      <English>Beret (Luftwaffensicherungstruppe)</English>
+      <German>Barett (Luftwaffensicherungstruppe)</German>
+    </Key>
+	<Key ID="STR_BeretLogiName">
+      <English>Beret (Logistik)</English>
+      <German>Barett (Logistik)</German>
+    </Key>
+	<Key ID="STR_BeretKSKName">
+      <English>Beret (Kommando Spezial Kraefte)</English>
+      <German>Barett (Kommando Spezial Kräfte)</German>
+    </Key>
+	<Key ID="STR_BeretKSName">
+      <English>Beret (Kampfschwimmer)</English>
+      <German>Barett (Kampfschwimmer)</German>
+    </Key>
+	<Key ID="STR_BeretInsName">
+      <English>Beret (Instandsetzung)</English>
+      <German>Barett (Instandsetzung)</German>
+    </Key>
+	<Key ID="STR_BeretHeeresAufklName">
+      <English>Beret (Heeresaufklärer)</English>
+      <German>Barett (Heeresaufklärer)</German>
+    </Key>
+	<Key ID="STR_BeretFeldJaegerName">
+      <English>Beret (Feldjäger)</English>
+      <German>Barett (Feldjäger)</German>
+    </Key>
+	<Key ID="STR_BeretFernSpaeherName">
+      <English>Beret (Fernspäher)</English>
+      <German>Barett (Fernspäher)</German>
+    </Key>
+	<Key ID="STR_BeretFernMelderName">
+      <English>Beret (Fernmelder)</English>
+      <German>Barett (Fernmelder)</German>
+    </Key>
+	<Key ID="STR_BeretEuCorpName">
+      <English>Beret (Euro Corps)</English>
+      <German>Barett (Euro Corps)</German>
+    </Key>
+	<Key ID="STR_BeretDeuFrBrigName">
+      <English>Beret (Deutsch Französische Brigade)</English>
+      <German>Barett (Deutsch Französische Brigade)</German>
+    </Key>
+	<Key ID="STR_BeretArtiName">
+      <English>Beret (Artillerie)</English>
+      <German>Barett (Artillerie)</German>
+    </Key>
+	<Key ID="STR_BooniehatFleckName">
+      <English>Booniehat (Flecktarn)</English>
+      <German>Buschhut (Flecktarn)</German>
+    </Key>
+	<Key ID="STR_BooniehatHeadsetFleckName">
+      <English>Booniehat Headset (Flecktarn)</English>
+      <German>Buschhut Headset (Flecktarn)</German>
+    </Key>
+	<Key ID="STR_BooniehatMultiName">
+      <English>Booniehat (Multitarn)</English>
+      <German>Buschhut (Multitarn)</German>
+    </Key>
+	<Key ID="STR_BooniehatHeadsetMultiName">
+      <English>Booniehat Headset (Multitarn)</English>
+      <German>Buschhut Headset (Multitarn)</German>
+    </Key>
+	<Key ID="STR_BooniehatTropenName">
+      <English>Booniehat (Tropentarn)</English>
+      <German>Buschhut (Tropentarn)</German>
+    </Key>
+	<Key ID="STR_BooniehatHeadsetTropenName">
+      <English>Booniehat Headset (Tropentarn)</English>
+      <German>Buschhut Headset (Tropentarn)</German>
+    </Key>
+	<Key ID="STR_CapName">
+      <English>Cap (Marine)</English>
+      <German>Mütze (Marine)</German>
+    </Key>
+	<Key ID="STR_VestName">
+      <English>Plate Carrier (Multitarn)</English>
+      <German>Plattenträger (Multitarn)</German>
+    </Key>
+		<Key ID="STR_Vest2Name">
+      <English>Vest (Multitarn)</English>
+      <German>Weste (Multitarn)</German>
+    </Key>
+	<Key ID="STR_VestSchneeName">
+      <English>Plate Carrier (Schneetarn)</English>
+      <German>Plattenträger (Schneetarn)</German>
+    </Key>
+		<Key ID="STR_VestSchnee2Name">
+      <English>Vest (Schneetarn)</English>
+      <German>Weste (Schneetarn)</German>
+    </Key>
+ </Package>
+</Project>

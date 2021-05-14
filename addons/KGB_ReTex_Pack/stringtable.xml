@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Project name="kgb_a3_fennek">
+  <Package name="Vehicles">
+
+    <Key ID="STR_BW_a3_FennekCSFleckName">
+      <English>AR Fennek CS</English>
+      <German>SpPz Fennek AD</German>
+    </Key>
+	<Key ID="STR_BW_a3_FennekHMGFleckName">
+      <English>AR Fennek HMG</English>
+      <German>SpPz Fennek sMG</German>
+    </Key>
+	<Key ID="STR_BW_a3_FennekGMGFleckName">
+      <English>AR Fennek GMG</English>
+      <German>SpPz Fennek GMW</German>
+    </Key>
+ </Package>
+</Project>

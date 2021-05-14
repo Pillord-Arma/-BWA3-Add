@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Project name="bw_trucks">
+  <Package name="Vehicles">
+
+    <Key ID="STR_BW_Truck7TTransportFleckName">
+      <English>Truck 7T Transport</English>
+      <German>LKW 7T Transport</German>
+    </Key>
+	    
+    <Key ID="STR_BW_Truck7TTransportCoveredFleckName">
+      <English>Truck 7T Transport Covered</English>
+      <German>LKW 7T Transport abgedeckt</German>
+    </Key>
+		    
+    <Key ID="STR_BW_Truck7TMedevacCoveredFleckName">
+      <English>Truck 7T Medevac</English>
+      <German>LKW 7T SAN</German>
+    </Key>
+
+    <Key ID="STR_BW_Truck7TFuelFleckName">
+      <English>Truck 7T Fuel</English>
+      <German>LKW 7T Treibstoff</German>
+    </Key>
+    
+    <Key ID="STR_BW_Truck7TAmmoFleckName">
+      <English>Truck 7T Ammo</English>
+      <German>LKW 7T Munition</German>
+    </Key>
+    
+    <Key ID="STR_BW_Truck7TRepairFleckName">
+      <English>Truck 7T Repair</English>
+      <German>LKW 7T Instandsetzung</German>
+    </Key>
+	
+	<Key ID="STR_BW_Truck7TDeviceFleckName">
+      <English>Truck 7T Device</English>
+      <German>LKW 7T Generator</German>
+    </Key>
+   </Package>
+</Project>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Project name="TBW_Obj">
+  <Package name="Vehicles">
+
+    <Key ID="STR_camo_fleck_vehicle">
+      <English>Camouflage Vehicle Cover (Flecktarn)</English>
+      <German>Camouflage-Fahrzeugabdeckung (Flecktarn)</German>
+    </Key>
+	<Key ID="STR_camo_fleck_offen">
+      <English>Camouflage Net (Open, Flecktarn)</English>
+      <German>Camouflage-Netz (offen, Flecktarn)</German>
+    </Key>
+	<Key ID="STR_camo_fleck">
+      <English>Camouflage Net (Flecktarn)</English>
+      <German>Camouflage-Netz (Fecktarn)</German>
+    </Key>
+	<Key ID="STR_camo_tropen_vehicle">
+      <English>Camouflage Vehicle Cover (Tropentarn)</English>
+      <German>Camouflage-Fahrzeugabdeckung (Tropentarn)</German>
+    </Key>
+	<Key ID="STR_camo_tropen_offen">
+      <English>Camouflage Net (Open, Tropentarn)</English>
+      <German>Camouflage-Netz (offen, Tropentarn)</German>
+    </Key>
+	<Key ID="STR_camo_tropen">
+      <English>Camouflage Net (Tropentarn)</English>
+      <German>Camouflage-Netz (Tropentarn)</German>
+    </Key>
+	<Key ID="STR_camo_schnee_vehicle">
+      <English>Camouflage Vehicle Cover (Schneetarn)</English>
+      <German>Camouflage-Fahrzeugabdeckung (Schneetarn)</German>
+    </Key>
+	<Key ID="STR_camo_schnee_offen">
+      <English>Camouflage Net (Open, Schneetarn)</English>
+      <German>Camouflage-Netz (offen, Schneetarn)</German>
+    </Key>
+	<Key ID="STR_camo_schnee">
+      <English>Camouflage Net (Schneetarn)</English>
+      <German>Camouflage-Netz (Schneetarn)</German>
+    </Key>
+ </Package>
+</Project>

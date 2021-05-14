@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Project name="bw_flags">
+  <Package name="Flag">
+
+    <Key ID="STR_BWadd_Flag_Clan">
+      <English>Flag (JgBtl533)</English>
+      <German>Flagge (JgBtl533)</German>
+    </Key>
+	<Key ID="STR_BWadd_Flag_Bund">
+      <English>Flag (Bundesdienst)</English>
+      <German>Flagge (Bundesdienst)</German>
+    </Key>
+	<Key ID="STR_BWadd_Flag_Europe">
+      <English>Flag (Europe)</English>
+      <German>Flagge (Europa)</German>
+    </Key>
+ </Package>
+</Project>

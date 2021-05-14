@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Project name="bw_additional_camo">
+  <Package name="Common_Units">
+
+    <Key ID="STR_BWadd_FactionClassBundeswehrSchneeName">
+      <English>Bundeswehr (Schneetarn)</English>
+      <German>Bundeswehr (Schneetarn)</German>
+    </Key>
+	<Key ID="STR_BWadd_M92FleckName">
+      <English>M92 Helmet (Schneetarn)</English>
+      <German>Gefechtshelm M92 (Schneetarn)</German>
+    </Key>
+	<Key ID="STR_BWadd_PatrolPackName">
+      <English>Patrol Pack (Schneetarn)</English>
+      <German>Kampfrucksack (Schneetarn)</German>
+    </Key>
+	<Key ID="STR_BWadd_UniformSchneeName">
+      <English>BW Uniform (Schneetarn)</English>
+      <German>BW Kampfanzug (Schneetarn)</German>
+    </Key>
+	<Key ID="STR_BWadd_UniformIDZSchneeName">
+      <English>IdZ Uniform (Schneetarn)</English>
+      <German>IdZ-Kampfanzug (Schneetarn)</German>
+    </Key>
+	<Key ID="STR_BWadd_UniformTarnIDZSchneeName">
+      <English>IdZ Ghillie suit (Schneetarn)</English>
+      <German>IdZ-Tarnanzug (Schneetarn)</German>
+    </Key>
+	<Key ID="STR_BWadd_UniformTarnSchneeName">
+      <English>BW Ghillie suit (Schneetarn)</English>
+      <German>BW Tarnanzug (Schneetarn)</German>
+    </Key>
+	<Key ID="STR_BWadd_GearCacheName_Schnee">
+      <English>Gear [BW] (Schneetarn)</English>
+      <German>Bekleidung [BW] (Schneetarn)</German>
+    </Key>
+ </Package>
+</Project>

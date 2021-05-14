@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Project name="kyo_MH47E">
+  <Package name="wreck">
+
+    <Key ID="STR_BWadd_Wreck">
+      <English>H-47F ER Wreck (light damage)</English>
+      <German>H-47F ER-Wrack (leichter Schaden)</German>
+    </Key>
+	<Key ID="STR_BWadd_Wreck_Sub">
+      <English>H-47F ER Wreck (Underwater)</English>
+      <German>H-47F ER-Wrack (unterwasser)</German>
+    </Key>
+	<Key ID="STR_BWadd_Gunner_Left">
+      <English>Left door gunner</English>
+      <German>Schütze linke Tür</German>
+    </Key>
+	<Key ID="STR_BWadd_Gunner_Right">
+      <English>Right door gunner</English>
+      <German>Schütze rechte Tür</German>
+    </Key>
+	<Key ID="STR_BWadd_Copilot">
+      <English>Copilot</English>
+      <German>Kopilot</German>
+    </Key>
+	<Key ID="STR_BWadd_Loadmaster">
+      <English>Loadmaster</English>
+      <German>Lademeister</German>
+    </Key>
+	<Key ID="STR_BWadd_RappelMaster">
+      <English>Rappell Master</English>
+      <German>Absetzer</German>
+    </Key>
+	<Key ID="STR_BWadd_FFV_Left">
+      <English>Passenger (Left Seat)</English>
+      <German>Passagier (Linker Sitz)</German>
+    </Key>
+	<Key ID="STR_BWadd_FFV_Right">
+      <English>Passenger (Right Seat)</English>
+      <German>Passagier (Rechter Sitz)</German>
+    </Key>
+	<Key ID="STR_BWadd_Ramp_Open">
+      <English>Open ramp</English>
+      <German>Rampe öffnen</German>
+    </Key>
+	<Key ID="STR_BWadd_Ramp_Level">
+      <English>Level ramp</English>
+      <German>Rampe ausgleichen</German>
+    </Key>
+	<Key ID="STR_BWadd_Ramp_Close">
+      <English>Close ramp</English>
+      <German>Rampe schließen</German>
+    </Key>
+	<Key ID="STR_BWadd_Wipers_Off">
+      <English>Wipers off</English>
+      <German>Wischer ausschalten</German>
+    </Key>
+	<Key ID="STR_BWadd_Wipers_On">
+      <English>Wipers on</English>
+      <German>Wischer einschalten</German>
+    </Key>
+	<Key ID="STR_BWadd_Chatter_OFF">
+      <English>Radio chatter off</English>
+      <German>Funksprüche ausschalten</German>
+    </Key>
+	<Key ID="STR_BWadd_Chatter_On">
+      <English>Radio chatter on</English>
+      <German>Funksprüche anschalten</German>
+    </Key>
+	<Key ID="STR_BWadd_Hatch_Open">
+      <English>Open hatch</English>
+      <German>Bodenluke öffnen</German>
+    </Key>
+	<Key ID="STR_BWadd_Hatch_Close">
+      <English>Close hatch</English>
+      <German>Bodenluke schließen</German>
+    </Key>
+ </Package>
+</Project>

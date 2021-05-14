@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Project name="TBW_Inf">
+  <Package name="Vehicles">
+	
+    <Key ID="STR_UniformSchneeName">
+      <English>BW Uniform (Schneetarn2)</English>
+      <German>BW Kampfanzug (Schneetarn2)</German>
+    </Key>
+	<Key ID="STR_Combat_Diver">
+      <English>Combat Diver (Flecktarn)</English>
+      <German>Kampftaucher (Flecktarn)</German>
+    </Key>
+	<Key ID="STR_Crew_Pullover">
+      <English>Crew Pullover</English>
+      <German>Besatzung Pullover</German>
+    </Key>
+	<Key ID="STR_Crew_Helmet">
+      <English>Crew Helmet</English>
+      <German>Besatzung Helm</German>
+    </Key>
+	<Key ID="STR_Crew_Shirt">
+      <English>Crew Shirt (Blue)</English>
+      <German>Besatzung Hemd (Blau)</German>
+    </Key>
+	<Key ID="STR_Crew_Shirt_Brown">
+      <English>Crew Shirt (Brown)</English>
+      <German>Besatzung Hemd (Braun)</German>
+    </Key>
+	<Key ID="STR_Combat_Swimmer_Fleck">
+      <English>Combat Swimmer (Flecktarn)</English>
+      <German>Kampfschwimmer (Flecktarn)</German>
+    </Key>
+	<Key ID="STR_Combat_Swimmer_Multi">
+      <English>Combat Swimmer (Multitarn)</English>
+      <German>Kampfschwimmer (Multitarn)</German>
+    </Key>
+	<Key ID="STR_Feldjaeger">
+      <English>Feldjäger</English>
+      <German>Feldjäger</German>
+    </Key>
+	<Key ID="STR_San">
+      <English>Paramedic</English>
+      <German>Sanitäter</German>
+    </Key>
+ </Package>
+</Project>

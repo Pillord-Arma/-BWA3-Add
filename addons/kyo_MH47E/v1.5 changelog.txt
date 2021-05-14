@@ -1,0 +1,64 @@
+------------------------
+Version 1.5 Changelog
+------------------------
+
+Fixed: Firing from vehicles field of view.
+Added: Items to Chinook's inventory.
+Changed: RAF CH-47E HC.3 model improvments.
+Changed: Lowered 'Armour' value.
+
+*Progress - Rotor break bug, (Hardcore Variant Only) - feedback needed - thank you.
+
+------------------------
+Version 1.4 Changelog
+------------------------
+
+Fixed: Rotor Break Bug.
+Improved: Player GetOut Positions.
+Changed: Chinook now starts with 'Raised Ramp'.
+
+------------------------
+Version 1.3 Changelog
+------------------------
+
+Improved: Slingloading uses front hook.
+Improved: Raised Slingloading maximum mass.
+Added: Firing from vehicles. (Fixed Ramp Version Only).
+Added: Compatible with AGM Fast Roping.
+Added: RAF CH-47 HC.3
+
+------------------------
+Version 1.2.2 Changelog
+------------------------
+
+Added: Ability to Slingload Using BIS's New Feature. (Heli DLC).
+
+------------------------
+Version 1.2.1 Changelog
+------------------------
+
+**Removed Update**
+
+----------------------
+Version 1.2 Changelog
+----------------------
+
+Added: Ability to load an ATV or CRRC via tryteyker's script.
+Fixed: Main Rotor clips into the fuselage upon 'Auto Hover' at speed. 
+Fixed: Adjusted cargo get out placement. (Hardcore Version Only).
+Removed: HUD Display.
+
+----------------------
+Version 1.1 Changelog
+----------------------
+
+Added: Pilot & Co-Pilot's Collective & Cyclic work with the Chinook's movement. 
+Added: Should now be compatible with Zeus.
+Added: Simulation usage 'helicopterX'.
+Added: Radio Chatter Off now displays a hint, instead of '60 Second Shutdown'. 
+Added: Main Search Light.
+Fixed: Chinook floating above ground when level start.
+Improved: Fuel Capacity & Fuel Consumption Rate.
+Improved: Tweaked 'armor' values by -10.
+Improved: Tweaked 'accuracy', 'camouflage' & 'audible' values.
+Improved: Chinook can now part-submerge better/more.

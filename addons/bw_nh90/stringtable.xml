@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Project name="bw_nh90">
+  <Package name="Units_Helicopters">
+
+    <Key ID="STR_BWadd_PilotName">
+      <English>Helicopter Pilot</English>
+      <German>Helikopterpilot</German>
+    </Key>
+<Key ID="STR_BWadd_HeliName">
+      <English>NH 90 Sea Lion (Transport)</English>
+      <German>NH 90 Sea Lion (Transport)</German>
+    </Key>	
+ </Package>
+</Project>

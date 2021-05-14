@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Project name="bw_unimog">
+  <Package name="Vehicles">
+
+    <Key ID="STR_BWadd_Truck2TTransportCoveredFleckName">
+      <English>Truck 2T Transport covered</English>
+      <German>LKW 2T Transport abgedeckt</German>
+    </Key>
+	<Key ID="STR_BWadd_Truck2TTransportFleckName">
+      <English>Truck 2T Transport</English>
+      <German>LKW 2T Transport</German>
+    </Key>
+	<Key ID="STR_BWadd_GroupClassUniUnterGrAbFleckName">
+      <English>Motorized Rifle Squad covered</English>
+      <German>Motorisierter Gewehrtrupp abgedeckt</German>
+    </Key>
+	<Key ID="STR_BWadd_GroupClassUniUnterGrFleckName">
+      <English>Motorized Rifle Squad</English>
+      <German>Motorisierter Gewehrtrupp</German>
+    </Key>	
+ </Package>
+</Project>

@@ -1,0 +1,5 @@
+name = "BWA3 Add 2.2.1";
+picture = "BWA3 Add.paa";
+actionName = "Website";
+action = "http://www.sixbitunder.net/";
+overview = "This Mod adds edited versions and retextures of the <t color='#2d7b37'>Bundeswehr Dingo</t> by Stevoo4552, the <t color='#2d7b37'>BW-NH90</t> by TobiB + marc_book, the <t color='#2d7b37'>Bw additional Camo</t> by ZeWa, the <t color='#2d7b37'>Luciea3</t> by [DSK]Red, the <t color='#2d7b37'>sfp-bo105</t> by Tjockjocke, the <t color='#2d7b37'>HAFM EC-635</t> by Aplion, the <t color='#2d7b37'>Boeing/SOAR MH-47E</t> by konyo, the <t color='#2d7b37'>Bundeswehr ReTex Pack</t> by Croschi, the <t color='#2d7b37'>Tobi´s Bundeswehr Retex Pack</t> by TobiB and the <t color='#2d7b37'>Global Mobilization-Demo</t> by GalComT, Maverick and Mondkalb. It introduces <t color='#cfcc66'>ACE3-FRIES</t>, <t color='#cfcc66'>Lesh's Towing Mod</t> and <t color='#cfcc66'>TFAR/ACRE2</t> compatibility. Website-link leads to our Arma-Clan [JgBtl533].";

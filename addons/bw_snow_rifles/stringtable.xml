@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Project name="bw_snow_rifles">
+  <Package name="Common_Weapons">
+
+    <Key ID="STR_BWAdd_G36A1SchneeName">
+      <English>G36A1 (White)</English>
+      <German>G36A1 (Weiß)</German>
+    </Key>
+	<Key ID="STR_BWAdd_G36KA1SchneeName">
+      <English>G36KA1 (White)</English>
+      <German>G36KA1 (Weiß)</German>
+    </Key>
+	<Key ID="STR_BWAdd_G36A1_AG40SchneeName">
+      <English>G36A1 AG40-2 (White)</English>
+      <German>G36A1 AG40-2 (Weiß)</German>
+    </Key>
+	<Key ID="STR_BWAdd_G36A2SchneeName">
+      <English>G36A2 (White)</English>
+      <German>G36A2 (Weiß)</German>
+    </Key>
+	<Key ID="STR_BWAdd_G36KA2SchneeName">
+      <English>G36KA2 (White)</English>
+      <German>G36KA2 (Weiß)</German>
+    </Key>
+	<Key ID="STR_BWAdd_G36A2AG40SchneeName">
+      <English>G36A2 AG40-2 (White)</English>
+      <German>G36A2 AG40-2 (Weiß)</German>
+    </Key>
+	<Key ID="STR_BWadd_G36SchneeName">
+      <English>G36A3 (White)</English>
+      <German>G36A3 (Weiß)</German>
+    </Key>
+	<Key ID="STR_BWAdd_G36KSchneeName">
+      <English>G36KA3 (White)</English>
+      <German>G36KA3 (Weiß)</German>
+    </Key>
+	<Key ID="STR_BWAdd_G36AGSchneeName">
+      <English>G36A3 AG40-2 (White)</English>
+      <German>G36A3 AG40-2 (Weiß)</German>
+    </Key>
+	<Key ID="STR_BWAdd_G36KA0SchneeName">
+      <English>G36KA0 (White)</English>
+      <German>G36KA0 (Weiß)</German>
+    </Key>
+	<Key ID="STR_BWAdd_G36KA4SchneeName">
+      <English>G36KA4 (White)</English>
+      <German>G36KA4 (Weiß)</German>
+    </Key>
+	<Key ID="STR_BWAdd_G38SchneeName">
+      <English>G38 (White)</English>
+      <German>G38 (Weiß)</German>
+    </Key>
+	<Key ID="STR_BWAdd_G38AGSchneeName">
+      <English>G38 AG40-2 (White)</English>
+      <German>G38 AG40-2 (Weiß)</German>
+    </Key>
+	<Key ID="STR_BWAdd_G38KSchneeName">
+      <English>G38K (White)</English>
+      <German>G38K (Weiß)</German>
+    </Key>
+	<Key ID="STR_BWAdd_G38KAGSchneeName">
+      <English>G38K AG40-2 (White)</English>
+      <German>G38K AG40-2 (Weiß)</German>
+    </Key>
+	<Key ID="STR_BWAdd_G38CSchneeName">
+      <English>G38C (White)</English>
+      <German>G38C (Weiß)</German>
+    </Key>
+	<Key ID="STR_BWAdd_G27SchneeName">
+      <English>G27 (White)</English>
+      <German>G27 (Weiß)</German>
+    </Key>
+	<Key ID="STR_BWAdd_G27AGSchneeName">
+      <English>G27 AG40-2 (White)</English>
+      <German>G27 AG40-2 (Weiß)</German>
+    </Key>
+	<Key ID="STR_BWAdd_MG3SchneeName">
+      <English>MG3 (White)</English>
+      <German>MG3 (Weiß)</German>
+    </Key>
+	<Key ID="STR_BWAdd_MG4SchneeName">
+      <English>MG4 (White)</English>
+      <German>MG4 (Weiß)</German>
+    </Key>
+	<Key ID="STR_BWAdd_MG5SchneeName">
+      <English>MG5 (White)</English>
+      <German>MG5 (Weiß)</German>
+    </Key>
+	<Key ID="STR_BWAdd_G82SchneeName">
+      <English>G82 (White)</English>
+      <German>G82 (Weiß)</German>
+    </Key>
+ </Package>
+</Project>
